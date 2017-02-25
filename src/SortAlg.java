@@ -28,5 +28,6 @@ public class SortAlg {
         int[] table = {2,1,3,5,4,10,21,3,6,90,100,32,1,4,6,8,9};
         SortAlg sortAlg = new SortAlg();
         sortAlg.bubble(table);
+        System.out.print("");
     }
 }
